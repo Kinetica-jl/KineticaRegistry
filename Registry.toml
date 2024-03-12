@@ -5,3 +5,4 @@ description = "Julia package registry for Kinetica packages"
 
 [packages]
 3847ce11-53ec-444b-aa85-3b6606472139 = { name = "Kinetica", path = "K/Kinetica" }
+9f8df979-2f01-44d9-baa5-45613ca42263 = { name = "KineticaKPM", path = "K/KineticaKPM" }

@@ -1,0 +1,3 @@
+name = "KineticaKPM"
+uuid = "9f8df979-2f01-44d9-baa5-45613ca42263"
+repo = "https://github.com/Kinetica-jl/KineticaKPM.jl.git"
