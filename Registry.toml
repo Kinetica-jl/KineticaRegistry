@@ -1,0 +1,6 @@
+name = "KineticaRegistry"
+uuid = "d3dfd191-03b3-482b-9774-5b7933808398"
+repo = "https://github.com/Kinetica-jl/KineticaRegistry.git"
+description = "Julia package registry for Kinetica packages"
+
+[packages]
