@@ -35,5 +35,5 @@ Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 ["0.6 - 0"]
 Glob = "c27321d9-0574-5035-807b-f59d2c89b15c"
 
-["0.8 - 0"]
+["0.7 - 0"]
 SymbolicIndexingInterface = "2efcf032-c050-4f8e-a9bb-153293bab1f5"
